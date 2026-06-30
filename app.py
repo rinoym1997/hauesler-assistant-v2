@@ -271,7 +271,17 @@ with st.sidebar:
     st.caption("In der Produktivversion: Microsoft Entra ID SSO")
 
     rolle_options = {v["label"]: k for k, v in ROLLEN_CONFIG.items()}
-    gewaehlte_label = st.selectbox("Ich bin...", options=list(rolle_options.keys()), key="rolle_selector")
+    rolle_labels = list(rolle_options.keys())
+
+    # Rolle aus URL-Parameter lesen (gesetzt vom Frontend-Login)
+    url_rolle = st.query_params.get("rolle", None)
+    default_idx = 0
+    if url_rolle and url_rolle in ROLLEN_CONFIG:
+        default_label = ROLLEN_CONFIG[url_rolle]["label"]
+        if default_label in rolle_labels:
+            default_idx = rolle_labels.index(default_label)
+
+    gewaehlte_label = st.selectbox("Ich bin...", options=rolle_labels, index=default_idx, key="rolle_selector")
     aktuelle_rolle = rolle_options[gewaehlte_label]
     rolle_info = ROLLEN_CONFIG[aktuelle_rolle]
 
