@@ -275,14 +275,22 @@ with st.sidebar:
 
     # Rolle aus URL-Parameter lesen (gesetzt vom Frontend-Login)
     url_rolle = st.query_params.get("rolle", None)
-    default_idx = 0
-    if url_rolle and url_rolle in ROLLEN_CONFIG:
-        default_label = ROLLEN_CONFIG[url_rolle]["label"]
-        if default_label in rolle_labels:
-            default_idx = rolle_labels.index(default_label)
 
-    gewaehlte_label = st.selectbox("Ich bin...", options=rolle_labels, index=default_idx, key="rolle_selector")
-    aktuelle_rolle = rolle_options[gewaehlte_label]
+    if url_rolle and url_rolle in ROLLEN_CONFIG:
+        # Rolle ist durch Login gesperrt — kein Dropdown
+        aktuelle_rolle = url_rolle
+        gewaehlte_label = ROLLEN_CONFIG[aktuelle_rolle]["label"]
+        st.markdown(
+            f'<div class="rls-info" style="margin-bottom:0.5rem">🔐 Angemeldet als:<br>'
+            f'<strong>{gewaehlte_label}</strong></div>',
+            unsafe_allow_html=True
+        )
+        st.caption("Rolle durch Login festgelegt.")
+    else:
+        # Kein URL-Param → Dropdown für lokales Testen
+        st.caption("⚠️ Lokaler Testmodus — Rolle wählbar")
+        gewaehlte_label = st.selectbox("Ich bin...", options=rolle_labels, key="rolle_selector")
+        aktuelle_rolle = rolle_options[gewaehlte_label]
     rolle_info = ROLLEN_CONFIG[aktuelle_rolle]
 
     st.markdown(
