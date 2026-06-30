@@ -13,7 +13,7 @@ from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import Chroma
-from langchain.schema import HumanMessage, AIMessage, SystemMessage
+from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
 # ─── ROLLENKONFIGURATION (RLS) ───────────────────────────────────────────────
 ROLLEN_CONFIG = {
