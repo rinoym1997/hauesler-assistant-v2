@@ -1,0 +1,152 @@
+HÄUSLER TECHNOLOGIE AG — EINKAUFS- UND LIEFERANTENHANDBUCH
+Abteilung: Einkauf & Beschaffung
+Zugriff: kommerziell, technisch, gl
+Version 3.0 | Stand: Januar 2025
+
+================================================================================
+1. BESCHAFFUNGSPROZESS
+================================================================================
+
+1.1 Bestellauslösung
+Bestellungen werden ausschliesslich durch die Einkaufsabteilung ausgelöst.
+Direkte Bestellungen durch andere Abteilungen sind nicht gestattet
+(Ausnahme: Rahmenverträge mit definiertem Abrufprozess).
+
+Ablauf Standardbestellung:
+Schritt 1: Bedarfsmeldung durch Abteilung in SAP Business One
+           (Modul «Einkaufsanforderung», Kostenstelle und Budget angeben)
+Schritt 2: Prüfung Bedarfsmeldung durch Einkauf (Lieferant, Preis, Verfügbarkeit)
+Schritt 3: Genehmigung gemäss Freigabematrix (siehe Abschnitt 2)
+Schritt 4: Bestellung in SAP Business One → automatische E-Mail an Lieferant
+Schritt 5: Auftragsbestätigung prüfen (Preis, Menge, Termin)
+Schritt 6: Wareneingang: Qualitätsprüfung durch QM, Buchung in SAP
+Schritt 7: Rechnungsprüfung (3-Wege-Match: Bestellung / Lieferschein / Rechnung)
+Schritt 8: Zahlungsfreigabe durch Finance (Zahlung dienstags)
+
+1.2 Dringlichkeitsbestellungen
+Bei dringendem Bedarf (Produktionsstillstand o.ä.):
+- Telefonische Voranmeldung an Einkauf (Durchwahl 400)
+- E-Mail mit Betreff «DRINGEND — Produktionsaufall» an einkauf@haeuslertechnologie.ch
+- Genehmigung durch Einkaufsleiter innerhalb 2 Stunden
+- Mehrkosten (Expresslieferung, höherer Preis) müssen schriftlich begründet werden
+
+================================================================================
+2. FREIGABEMATRIX EINKAUF
+================================================================================
+
+Bestellwert              Freigabe durch
+CHF 0 – 500             Einkaufssachbearbeiter
+CHF 501 – 5'000         Einkaufsleiter
+CHF 5'001 – 20'000      Einkaufsleiter + Abteilungsleiter Bedarfsträger
+CHF 20'001 – 50'000     Einkaufsleiter + CFO
+> CHF 50'000            Geschäftsleitung (CEO + CFO)
+
+Rahmenverträge (unabhängig vom Einzelabrufwert): immer GL-Genehmigung
+bei Erstabschluss. Verlängerungen: CFO-Genehmigung.
+
+================================================================================
+3. LIEFERANTENBEWERTUNG UND -KLASSIFIZIERUNG
+================================================================================
+
+3.1 Lieferantenklassen
+Die Häusler AG klassifiziert Lieferanten in drei Kategorien:
+
+KLASSE A — Strategische Lieferanten (auditiert, zertifiziert)
+Kriterien: Jahreseinkaufsvolumen > CHF 500'000 ODER
+           kritische Komponenten ohne gleichwertige Alternative
+Anforderungen: ISO 9001 Zertifizierung, jährliches Lieferanten-Audit,
+               Preisfestschreibung mindestens 12 Monate
+Aktuelle Klasse-A-Lieferanten (Auszug):
+- Bosch Rexroth AG (Hydraulikkomponenten)
+- Parker Hannifin (Dichtungen, Ventilkomponenten)
+- Lapp Gruppe (Elektrik, Kabel)
+- Dätwyler (Dichtungswerkstoffe)
+- Bystronic (Blechteile)
+
+KLASSE B — Wichtige Lieferanten (freigegeben)
+Kriterien: Jahreseinkaufsvolumen CHF 50'000 – 500'000
+Anforderungen: Selbstauskunft Qualitätssystem, Muster- und Erstmusterprüfung,
+               Lieferantenfragebogen vollständig
+Bewertung: jährlich anhand Qualität (40%), Termintreue (30%), Preis (20%),
+           Flexibilität (10%)
+
+KLASSE C — Gelegenheitslieferanten (projektbezogen)
+Kriterien: Jahreseinkaufsvolumen < CHF 50'000 oder Einmalbedarf
+Anforderungen: Handelsregisterauszug, Referenzprüfung
+Zahlungsbedingungen: Vorkasse oder Kreditkarte (kein Zahlungsziel)
+
+3.2 Lieferantenbewertung (jährlich, Klasse A und B)
+Bewertungsbogen (1–5 Punkte pro Kriterium):
+- Qualität (Fehlerquote, Reklamationen): 40 % Gewicht
+- Termintreue (Lieferung auf Termin ± 1 Tag): 30 % Gewicht
+- Preis (Wettbewerbsfähigkeit, Preisstabilität): 20 % Gewicht
+- Flexibilität (Expresslieferung, Mengenanpassung): 10 % Gewicht
+
+Massnahmen bei schlechter Bewertung:
+< 3.0 Punkte: Massnahmenplan mit Lieferant, 6-Monate-Frist
+< 2.5 Punkte: Probestatus, verstärkte Prüfung (100 % WEP)
+< 2.0 Punkte: Kündigung Lieferantenbeziehung, Alternativlieferant suchen
+
+3.3 Neue Lieferanten freischalten
+Prozess Lieferantenfreischaltung:
+1. Antrag durch bedarfsfordernde Abteilung an Einkauf
+2. Lieferantenfragebogen versenden und auswerten
+3. Referenzprüfung (mind. 2 Referenzkunden)
+4. Erstbemusterung (bei Produktionskomponenten obligatorisch)
+5. QM-Freigabe für Klasse A und B
+6. Eintrag in SAP Business One «Lieferantenstamm»
+
+Dauer: 4–8 Wochen (Klasse B), 8–16 Wochen (Klasse A inkl. Audit)
+
+================================================================================
+4. MATERIALGRUPPEN UND HAUPTLIEFERANTEN
+================================================================================
+
+Rohmaterial Stahl/Aluminium:
+- Primärlieferant: Swiss Steel AG, Emmenbrücke
+- Alternativlieferant: SSAB (Schweden, für Sonderstähle)
+Hydraulische Komponenten (Zukauf):
+- Ventilrohlinge: Bosch Rexroth, Parker Hannifin
+- Kolbenstangen: Steeltec AG, Emmenbrücke
+Dichtungen und Dichtwerkstoffe:
+- Standarddichtungen: Dätwyler, Altdorf
+- Hochtemperatur FKM: Freudenberg Sealing Technologies
+Elektronik / Proportionalmagnete:
+- Hydac, Sulzbach (D)
+- Wandfluh AG, Frutigen (CH)
+Normteile (Schrauben, Passfedern):
+- Bossard AG, Zug (Rahmenvertrag, Kanban-Belieferung)
+Verpackung:
+- Verpac AG, Winterthur
+
+================================================================================
+5. PREISVERHANDLUNGEN UND RAHMENVERTRÄGE
+================================================================================
+
+5.1 Preisverhandlungen
+Jährliche Preisverhandlungen finden zwischen Oktober und Dezember statt.
+Ziel: Preiserhöhungen auf maximal Schweizer Produzenten-Preisindex (PPI) begrenzen.
+Bei Erhöhungen > PPI: Nachkalkulation notwendig, ggf. Weitergabe an Kunden.
+
+5.2 Rahmenverträge
+Für alle Klasse-A-Lieferanten bestehen Rahmenverträge mit:
+- Preisfestschreibung 12 Monate
+- Mindestabnahmemengen (pro Quartal)
+- Lieferkonditionen (Incoterms, Verpackung)
+- Qualitätsanforderungen (Verweis auf Qualitätshandbuch)
+- Pönalen bei Nicht-Lieferung oder Qualitätsmängeln
+
+Rahmenverträge werden durch Einkauf verhandelt und durch GL genehmigt.
+Juristische Prüfung bei Vertragswert > CHF 200'000 durch externe Anwaltskanzlei.
+
+================================================================================
+KONTAKT EINKAUF & BESCHAFFUNG
+================================================================================
+
+Einkaufsleiter: Roland Suter
+E-Mail: r.suter@haeuslertechnologie.ch | Durchwahl: 400
+
+Einkauf allgemein: einkauf@haeuslertechnologie.ch | Durchwahl: 401-405
+Stammdaten/Lieferantenfreischaltung: stammdaten@haeuslertechnologie.ch
+
+Notfall (Produktionsstillstand): +41 52 123 45 99 (24h)

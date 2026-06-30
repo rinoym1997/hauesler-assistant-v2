@@ -1,0 +1,159 @@
+HÄUSLER TECHNOLOGIE AG — UNTERNEHMENSSTRATEGIE 2025–2027
+Abteilung: Geschäftsleitung
+Zugriff: gl
+Klassifikation: VERTRAULICH — nur für Führungskräfte und GL
+Version 1.0 | Verabschiedet durch Verwaltungsrat: Dezember 2024
+
+================================================================================
+1. STRATEGISCHE AUSGANGSLAGE
+================================================================================
+
+Die Häusler Technologie AG hat sich in den letzten fünf Jahren erfolgreich
+als Qualitätsanbieter im Segment hydraulischer Steuerungssysteme für den
+europäischen Maschinen- und Anlagenbau positioniert. Der Umsatz stieg von
+CHF 44 Mio. (2019) auf CHF 62 Mio. (2024), was einem CAGR von 7.1 % entspricht.
+
+Strategische Ausgangsstärken:
+- Technologische Differenzierung: Eigenentwicklung Proportionalhydraulik
+- Qualitätsprädikat: Null-Reklamationsquote bei Topkunden
+- Kundentreue: durchschnittliche Kundenbeziehungsdauer > 9 Jahre
+- Standortvorteil: Swiss Made Positionierung in Exportmärkten
+
+Strategische Herausforderungen:
+- Fachkräftemangel Schweiz (Ingenieure, Facharbeiter Produktion)
+- Kostendruck durch Konkurrenz aus Deutschland und Osteuropa
+- Wachsende Komplexität der Kundenanforderungen (Elektronifizierung)
+- Rohstoffpreisvolatilität (Stahl, Kupfer, Aluminium)
+- Regulatorischer Druck (EU AI Act, EU Maschinenrichtlinie 2023)
+
+================================================================================
+2. STRATEGISCHE STOSSRICHTUNGEN 2025–2027
+================================================================================
+
+STOSSRICHTUNG 1: WACHSTUM IM KERNMARKT DACH+BENELUX
+Ziel: Umsatz DACH+Benelux von CHF 52 Mio. auf CHF 68 Mio. steigern
+Massnahmen:
+- Verstärkung Vertriebsaussendienst (+2 Account Manager Inland)
+- Ausbau Kundendienst-Kapazität (schnellere Reaktionszeiten)
+- Einführung Digitales Kundenportal (Bestellung, Tracking, Doku) bis Q3 2026
+- Rahmenverträge mit 5 weiteren Tier-1-Kunden abschliessen
+
+STOSSRICHTUNG 2: INTERNATIONALISERUNG NORDEUROPA
+Ziel: Umsatz Export Nordeuropa (Skandinavien, Niederlande) von CHF 6 Mio. auf CHF 14 Mio.
+Massnahmen:
+- Partnerschaft mit Handelvertreter in Schweden (Gesprächsphase, Q1 2025)
+- Zertifizierung für skandinavische Marktanforderungen (ATEX, SIL 2)
+- Messeteilnahme Hannover Messe 2025, 2026 (Gemeinschaftsstand)
+- Export-Dokumentenmanagement (englische/schwedische Unterlagen) bis Q2 2025
+
+STOSSRICHTUNG 3: DIGITALISIERUNG DER KERNPROZESSE
+Ziel: Effizienzsteigerung 15 % in Produktion und Verwaltung bis 2027
+Massnahmen:
+- Einführung ERP-Upgrade SAP Business One → SAP S/4HANA (geplant 2026)
+- Digitale Fertigungssteuerung (MES-System, Angebote werden evaluiert)
+- KI-gestütztes Wissensmanagement (Pilotprojekt laufend, ARTI-Projekt 2025)
+  → Ziel: Wissenssilos auflösen, Suchzeit -50 %, Onboarding -30 %
+- Digitales Kundenportal inkl. Konfigurationstool für Standardprodukte
+
+STOSSRICHTUNG 4: PRODUKTINNOVATION ELEKTRONIFIZIERUNG
+Ziel: 20 % des Umsatzes mit «Smart Hydraulics» Produkten bis 2027 (aktuell 3 %)
+Massnahmen:
+- Entwicklung HV-400 «digital» mit integrierter Sensorik und IO-Link-Interface
+- Aufbau Kompetenzcenter «Mechatronik» in F&E (+3 Ingenieure bis 2026)
+- Kooperation mit ETH Zürich (Forschungsprojekt «Intelligente Aktuatorik»)
+- Pilotprojekt «Predictive Maintenance» mit Bestandskunden bis Q4 2025
+
+STOSSRICHTUNG 5: MENSCHEN UND KULTUR
+Ziel: Arbeitgeberattraktivität sichern, Fluktuation < 5 % halten
+Massnahmen:
+- Einführung flexibler Arbeitsmodelle (Viertagewoche für Produktion ab 2026 prüfen)
+- Lohnrunde 2025: Ziel reale Lohnerhöhung +1.5 % über Teuerung
+- Weiterbildungsbudget: CHF 3'000/MA/Jahr (aktuell CHF 1'800)
+- Employer Branding Kampagne (Fokus: Ingenieure, Facharbeiter)
+- Einführung jährliche Mitarbeitendenbefragung (erstes Mal: April 2025)
+
+================================================================================
+3. FINANZIELLE ZIELE 2025–2027
+================================================================================
+
+                    2024 (Ist)    2025 (Plan)    2026 (Plan)    2027 (Ziel)
+Umsatz CHF Mio.       62.4          68.0           75.0           82.0
+EBITDA-Marge %        14.2 %        14.5 %         15.0 %         15.5 %
+Eigenkapitalquote     58 %          58 %           60 %           62 %
+Mitarbeitende FTE     278           292            308            320
+
+Investitionsplanung (kumuliert 2025–2027):
+- Produktionsanlagen und Infrastruktur: CHF 8.5 Mio.
+- IT-Systeme (SAP S/4HANA, MES, KI): CHF 3.2 Mio.
+- F&E Prüfstände und Labor: CHF 1.8 Mio.
+- Digitales Kundenportal: CHF 0.9 Mio.
+Total Investitionen: CHF 14.4 Mio.
+
+Finanzierung: 70 % aus Cashflow, 30 % Bankdarlehen (Hausbank: ZKB Zürich)
+
+================================================================================
+4. UNTERNEHMENSFÜHRUNG UND GOVERNANCE
+================================================================================
+
+Verwaltungsrat (VR):
+- Dr. Hans-Peter Häusler (Präsident, Gründerfamilie)
+- Monika Häusler-Steiner (VR-Mitglied, Gründerfamilie)
+- Prof. Dr. Ursula Baumgartner (unabhängiges VR-Mitglied, ex-Sulzer)
+- Thomas Ackermann (VR-Mitglied, Finanzexperte)
+VR-Sitzungen: quartalsweise
+
+Geschäftsleitung (GL):
+- CEO: Christian Häusler (Sohn des Gründers, seit 2018)
+  c.haeusler@haeuslertechnologie.ch | Durchwahl: 001
+- CFO: Daniel Wüthrich
+  d.wuethrich@haeuslertechnologie.ch | Durchwahl: 300
+- COO / Leiter Operations: Sabine Müller
+  s.mueller@haeuslertechnologie.ch | Durchwahl: 600
+- CSO / Leiter Vertrieb: Andreas Kaufmann
+  a.kaufmann@haeuslertechnologie.ch | Durchwahl: 200
+- CTO / Leiter F&E: Dr. Stefan Hofer
+  s.hofer@haeuslertechnologie.ch | Durchwahl: 500
+
+GL-Sitzungen: wöchentlich (montags 08:00), monatliches erweitertes GL-Meeting
+mit Abteilungsleitern (letzter Donnerstag des Monats, 14:00–17:00).
+
+================================================================================
+5. UNTERNEHMENSWERTE UND FÜHRUNGSPRINZIPIEN
+================================================================================
+
+Unternehmenswerte (seit 2023 neu definiert):
+QUALITÄT — Wir liefern was wir versprechen. Null Kompromisse.
+INNOVATION — Wir entwickeln Lösungen bevor Kunden sie fordern.
+VERLÄSSLICHKEIT — Kunden und Mitarbeitende können sich auf uns verlassen.
+NACHHALTIGKEIT — Wir wirtschaften so, dass die nächste Generation weitermachen kann.
+GEMEINSCHAFT — Wir sind ein Team. Erfolg teilen wir.
+
+Führungsprinzipien:
+- Führen mit Zielen (OKR-Methodik, quartalsweise)
+- Fehlerkultur: Fehler dürfen passieren, müssen aber kommuniziert werden
+- Entscheidungsgeschwindigkeit: Entscheide auf tiefstmöglicher Ebene treffen
+- Transparenz: Alle Mitarbeitenden kennen die Unternehmensziele
+
+================================================================================
+6. RISIKOMANAGEMENT
+================================================================================
+
+Top-Risiken 2025 (Risikoregister GL, Stand Januar 2025):
+
+Risiko 1: Lieferkettenunterbruch (Wahrscheinlichkeit: mittel, Auswirkung: hoch)
+Massnahme: Dual Sourcing bei allen kritischen Komponenten bis Q3 2025
+
+Risiko 2: Fachkräftemangel Ingenieure (Wahrscheinlichkeit: hoch, Auswirkung: mittel)
+Massnahme: Kooperation ZHAW, Ausbildungsoffensive, Lohnanpassung
+
+Risiko 3: Cyberangriff / Ransomware (Wahrscheinlichkeit: mittel, Auswirkung: hoch)
+Massnahme: SOC-Anbindung, jährliche Penetrationstests, Mitarbeitendensensibilisierung
+
+Risiko 4: Währungsrisiko CHF/EUR (Wahrscheinlichkeit: hoch, Auswirkung: mittel)
+Massnahme: Hedging-Strategie, natürliches Hedging durch EUR-Einkäufe ausbauen
+
+Risiko 5: Regulatorik EU AI Act (Wahrscheinlichkeit: mittel, Auswirkung: gering)
+Massnahme: KI-Nutzung dokumentieren, DSGVO-Compliance sicherstellen
+
+VERTRAULICH — Dieses Dokument ist ausschliesslich für die Geschäftsleitung
+und den Verwaltungsrat bestimmt. Weitergabe ohne GL-Genehmigung verboten.

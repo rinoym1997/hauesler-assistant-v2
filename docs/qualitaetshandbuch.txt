@@ -1,0 +1,176 @@
+HÄUSLER TECHNOLOGIE AG — QUALITÄTSMANAGEMENTHANDBUCH
+Abteilung: Qualitätsmanagement (QM)
+Zugriff: technisch, kommerziell, gl
+Zertifizierung: ISO 9001:2015 | ISO 14001:2015
+Version 5.1 | Freigegeben durch: QM-Leitung & GL | Januar 2025
+
+================================================================================
+1. QUALITÄTSPOLITIK UND ZIELE
+================================================================================
+
+Die Häusler Technologie AG verpflichtet sich zur kontinuierlichen Verbesserung
+der Qualität ihrer Produkte, Prozesse und Dienstleistungen. Qualität bedeutet
+für uns: Null-Fehler-Lieferung, termingerechte Auslieferung und vollständige
+Erfüllung der Kundenanforderungen.
+
+Qualitätsziele 2025:
+- Reklamationsquote: < 0.8 % (gemessen am Umsatz)
+- Erstlösungsrate Kundenreklamationen: > 85 % innert 5 Werktagen
+- Interne Fehlerkosten: < 2.5 % der Herstellkosten
+- Liefertermintreue: > 96 %
+- Kundenzufriedenheit (jährliche Befragung): > 4.2 / 5.0
+
+================================================================================
+2. QUALITÄTSMANAGEMENTSYSTEM (QMS)
+================================================================================
+
+2.1 Geltungsbereich
+Das QMS gilt für die gesamte Wertschöpfungskette: Entwicklung, Beschaffung,
+Produktion, Prüfung, Auslieferung und Kundendienst.
+
+2.2 Dokumentenstruktur
+Ebene 1: Qualitätshandbuch (dieses Dokument)
+Ebene 2: Verfahrensanweisungen (VA-xxx)
+Ebene 3: Arbeitsanweisungen (AA-xxx)
+Ebene 4: Formulare, Prüfprotokolle, Nachweise
+
+Alle QM-Dokumente sind im M-Files DMS unter «QM-System» versioniert abgelegt.
+Veraltete Versionen werden automatisch gesperrt.
+
+2.3 Rollen und Verantwortlichkeiten
+- QM-Leiter: Gesamtverantwortung QMS, Ansprechperson für Zertifizierungsstelle
+- Qualitätsprüfer (3 Personen): Wareneingangsprüfung, Fertigungsprüfung,
+  Endprüfung
+- Qualitätsbeauftragte in der Produktion: jede Schicht 1 verantwortliche Person
+- Alle Mitarbeitenden: Pflicht zur Fehlermeldung bei erkannten Abweichungen
+
+================================================================================
+3. NICHTKONFORMITÄTEN UND REKLAMATIONSPROZESS
+================================================================================
+
+3.1 Interne Nichtkonformität (Produktionsfehler)
+Wird während der Fertigung oder Endprüfung ein Fehler festgestellt:
+
+Schritt 1: Sperrung des betroffenen Teils/der Charge (rotes Sperrschild,
+           Einlagerung in «Sperrlager» Gebäude B, Bereich S-01)
+Schritt 2: Fehlermeldung im QM-System (SAP QM-Modul) innerhalb von 2 Stunden
+Schritt 3: Ursachenanalyse durch Qualitätsprüfer (8D-Report innerhalb 24h)
+Schritt 4: Sofortmassnahmen definieren und umsetzen
+Schritt 5: Freigabe durch QM-Leiter für Nacharbeit oder Verschrottung
+Schritt 6: Korrekturmassnahmen und Wirksamkeitsprüfung (innert 30 Tagen)
+
+3.2 Kundenreklamation
+Bei Eingang einer Kundenreklamation (per E-Mail, Telefon, Portal):
+
+Tag 0-1: Eingangsbestätigung an Kunden durch Kundendienst
+Tag 0-2: QM erstellt Reklamationsakte (SAP QM), Klassifizierung:
+         Kritisch (A): Sicherheitsrisiko, Lieferstopp → sofortige GL-Eskalation
+         Schwer (B): Funktionsausfall, erheblicher Schaden → 5-Tage-Frist
+         Leicht (C): Kosmetisch, Dokumentationsfehler → 15-Tage-Frist
+Tag 1-5: 8D-Report (bei A/B), Ursachenanalyse, Sofortmassnahmen
+Tag 5: Zwischenbericht an Kunden (bei A/B)
+Tag 15/30: Abschlussbericht mit Korrekturmassnahmen
+
+Verantwortlichkeiten Reklamationsprozess:
+- Kundendienst: Kundenkommunikation, Koordination
+- QM: Technische Analyse, 8D-Report, Korrekturmassnahmen
+- Produktion: Nacharbeit, Austauschlieferung
+- Vertrieb: Kulanz/Gutschriftentscheid (bei Warenwert > CHF 5'000: Finance-Visum)
+
+3.3 Kulanz und Gutschriften
+- Gutschriften bis CHF 500: Kundendienst entscheidet
+- Gutschriften CHF 500 – 5'000: Vertriebsleitung
+- Gutschriften > CHF 5'000: GL + Finance
+
+================================================================================
+4. WARENEINGANGSPRÜFUNG
+================================================================================
+
+Alle eingehenden Materialien und Komponenten werden gemäss Prüfplan geprüft.
+
+Prüfumfang nach Lieferantenklasse:
+Klasse A (zertifiziert, auditiert): Identitätsprüfung + Stichprobe 5 %
+Klasse B (freigegeben, nicht auditiert): Vollständige Eingangsprüfung 10 %
+Klasse C (neu, nicht bewertet): 100 % Eingangsprüfung, Qualifikation nötig
+
+Prüfmittel: Koordinatenmessmaschine (KMM), Druckteststand, Dichtheitsprüfung
+Prüfprotokolle werden in M-Files archiviert (10 Jahre Aufbewahrungspflicht).
+
+================================================================================
+5. FERTIGUNGS- UND ENDPRÜFUNG
+================================================================================
+
+5.1 Fertigungsprüfung (Streckenprüfung)
+Jedes Bauteil durchläuft definierte Prüfpunkte während der Fertigung.
+Prüfpläne sind in SAP Business One für jede Artikelnummer hinterlegt.
+Prüfergebnisse werden digital erfasst (Tablet an jeder Prüfstation).
+
+5.2 Endprüfung HV-Serie (Hydraulikventile)
+Jedes Ventil der HV-Serie wird 100 % geprüft auf:
+- Drucktest: Nenndruck × 1.5 für 5 Minuten (Leckageprüfung)
+- Funktionstest: Schaltspiele, Ansprechzeit, Hysterese
+- Optische Prüfung: Oberfläche, Beschriftung, Anschlüsse
+- Messprotokolle: werden als PDF dem Lieferschein beigelegt
+
+5.3 Endprüfung HZ-Serie (Zylinder)
+- Drucktest: 1.5 × Betriebsdruck, 30 Minuten
+- Leckagetest: Kolbenstange, Deckel, Entlüftung
+- Massprüfung: Hub, Einbautiefe, Anschlussgewinde
+
+================================================================================
+6. INTERNE AUDITS
+================================================================================
+
+Der QM-Leiter erstellt jährlich einen internen Auditplan. Jede Abteilung wird
+mindestens einmal pro Jahr auditiert. Auditnachweise werden in M-Files abgelegt.
+
+Auditplan 2025:
+- Februar: Produktion / Fertigung
+- April: Einkauf / Lieferantenmanagement
+- Juni: Vertrieb / Angebotsprozess
+- August: IT / Datensicherheit
+- Oktober: HR / Schulungsnachweis
+- November: Finance / Rechnungsprüfung
+- Dezember: Managementbewertung mit GL
+
+Externe Zertifizierungsaudits: SGS Société Générale de Surveillance SA
+Nächstes Rezertifizierungsaudit: Oktober 2026
+
+================================================================================
+7. KENNZEICHNUNG UND RÜCKVERFOLGBARKEIT
+================================================================================
+
+Alle Produkte der Häusler AG sind mit einer eindeutigen Seriennummer versehen.
+Die Seriennummer ermöglicht die Rückverfolgung zu:
+- Produktionsauftrag und -datum
+- Verwendete Rohmaterialien und Chargen
+- Prüfer und Prüfdatum
+- Auslieferungsdatum und Empfänger
+
+Format Seriennummer: HT-[Produktfamilie]-[Jahr]-[Laufnummer]
+Beispiel: HT-HV400-2024-003847
+
+Rückverfolgungsanfragen (intern und von Kunden): qm@haeuslertechnologie.ch
+
+================================================================================
+8. UMWELTMANAGEMENT (ISO 14001)
+================================================================================
+
+Umweltaspekte und Ziele 2025:
+- Energieverbrauch Produktion: -5 % vs. 2024 (Basis: kWh/produziertes Stück)
+- Abfallmenge: -10 % Sonderabfall (Hydrauliköl, Metallspäne)
+- CO2-Kompensation Geschäftsreisen: 100 % (ClimatePartner)
+- Recyclingquote Metallschrott: > 95 %
+
+Umweltbeauftragter: Thomas Frei (QM) | Durchwahl 215
+
+================================================================================
+KONTAKT QUALITÄTSMANAGEMENT
+================================================================================
+
+QM-Leiter: Thomas Frei
+E-Mail: t.frei@haeuslertechnologie.ch | Durchwahl: 215
+
+Reklamationen: reklamation@haeuslertechnologie.ch
+QM allgemein: qm@haeuslertechnologie.ch
+Standort: Gebäude B, Raum B1.08

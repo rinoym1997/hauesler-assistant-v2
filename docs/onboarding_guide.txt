@@ -1,0 +1,118 @@
+HÄUSLER TECHNOLOGIE AG — ONBOARDING-GUIDE
+Willkommen bei der Häusler Technologie AG!
+Version 2.1 | Januar 2025 | IT-Abteilung & Human Resources
+
+================================================================================
+WILLKOMMEN
+================================================================================
+
+Herzlich willkommen bei der Häusler Technologie AG! Wir freuen uns, dass Sie Teil unseres Teams sind. Dieser Guide begleitet Sie durch die ersten Tage und Wochen und hilft Ihnen, sich rasch in unserer IT-Landschaft zurechtzufinden.
+
+Bei Fragen steht Ihnen Ihre Patin / Ihr Pate zur Seite, die Ihnen zu Beginn zugeteilt wird. Zusätzlich erreichen Sie die IT-Abteilung unter it-helpdesk@haeuslertechnologie.ch oder intern unter Durchwahl 0.
+
+================================================================================
+TAG 1 — ERSTE SCHRITTE
+================================================================================
+
+Checkliste für den ersten Tag:
+[ ] Empfang an der Rezeption, Gebäude A (Haupteingang, Zürcherstrasse 18)
+[ ] Ausweis und Zugangskarte abholen (Empfang)
+[ ] Laptop und Equipment in Empfang nehmen (IT-Büro, Gebäude A, Raum A1.05)
+[ ] Erstpasswort setzen (Anleitung weiter unten)
+[ ] Häusler-Mailkonto einrichten
+[ ] Microsoft Teams installieren / konfigurieren
+[ ] Mittagessen mit dem Team (Kantine, Gebäude B, 1. OG, 11:45–13:15 Uhr)
+
+================================================================================
+IT-ZUGÄNGE EINRICHTEN
+================================================================================
+
+1. NETZWERK-LOGIN (Active Directory)
+   - Benutzername: vorname.nachname@haeuslertechnologie.ch
+   - Erstpasswort: erhalten Sie per SMS auf Ihr Mobiltelefon am ersten Tag
+   - Das Erstpasswort muss beim ersten Login geändert werden
+   - Passwortanforderungen: min. 12 Zeichen, Gross-/Kleinbuchstaben, Zahl, Sonderzeichen
+   - Passwort läuft alle 90 Tage ab
+
+2. VPN-ZUGANG (für Homeoffice)
+   - Client: Cisco AnyConnect (wird durch IT vorkonfiguriert auf Ihrem Laptop)
+   - VPN-Server: vpn.haeuslertechnologie.ch
+   - Benutzername: Ihr AD-Benutzername
+   - Passwort: Ihr AD-Passwort
+   - MFA: Microsoft Authenticator App (auf Ihrem Smartphone installieren, QR-Code von IT)
+   - Bei Problemen: it-helpdesk@haeuslertechnologie.ch oder Durchwahl 0
+
+3. E-MAIL (Microsoft Outlook)
+   - Outlook ist auf Ihrem Laptop vorinstalliert und mit Ihrem Konto verknüpft
+   - Webzugang: https://mail.haeuslertechnologie.ch (erfordert VPN oder Büronetz)
+   - Signaturvorlage: liegt im Shared Drive unter \\shared\Vorlagen\E-Mail-Signatur
+
+4. MICROSOFT TEAMS
+   - Teams ist für die interne Kommunikation und Besprechungen im Einsatz
+   - Ihr Account wird automatisch beim ersten Login erstellt
+   - Treten Sie folgenden Teams bei: "Alle Häusler MA", Ihr Abteilungsteam
+   - Videokonferenz-Link für externe Besprechungen: über Teams generieren
+
+5. ZEITERFASSUNG (TimeSafe)
+   - URL: https://timesafe.haeuslertechnologie.ch
+   - Login: AD-Benutzername und -Passwort
+   - Tagesrapport täglich bis 18:00 Uhr abschliessen
+   - Wochenrapport jeden Montag für die Vorwoche
+
+6. HR-PORTAL (MyHR)
+   - URL: https://myhr.haeuslertechnologie.ch
+   - Login: AD-Benutzername und -Passwort
+   - Funktion: Ferienantrag, Speseneingabe, Lohnausweise, persönliche Daten
+
+7. ERP-SYSTEM (SAP Business One)
+   - Zugang nach Bedarf (nicht alle MA haben SAP-Zugang)
+   - Freischaltung durch Führungskraft beantragen über MyHR → «Software-Anfrage»
+   - Schulung: e-Learning-Modul im Intranet (ca. 3 Stunden) vor Erstnutzung obligatorisch
+
+================================================================================
+BÜRO UND INFRASTRUKTUR
+================================================================================
+
+Gebäudekarte:
+- Gebäude A: Büros, IT, HR, Geschäftsleitung (Erdgeschoss: Empfang, Konferenzräume)
+- Gebäude B: Produktion, Lager, Kantine (1. OG), Werkzeugausgabe (EG)
+- Gebäude C: F&E, Prüfstände, Messtechnik
+
+Parkplätze: Besucher-Parkplatz Einfahrt Zürcherstrasse. Mitarbeiterparkplätze Hintereingang. Zuteilung über HR.
+
+Kantine: Montag bis Freitag, 07:00–09:00 Uhr (Frühstück), 11:45–13:15 Uhr (Mittagessen).
+Lunch-Preise: Mittagsmenü CHF 9.50 (subventioniert), à la carte verfügbar.
+Zahlung: Kantine-Badge (wird auf Ihren Zugangschip geladen).
+
+================================================================================
+WICHTIGE ANSPRECHPERSONEN
+================================================================================
+
+| Funktion | Person | E-Mail | Durchwahl |
+|---|---|---|---|
+| IT-Helpdesk | Team IT | it-helpdesk@haeuslertechnologie.ch | 0 |
+| HR Business Partner | Sandra Meier | s.meier@haeuslertechnologie.ch | 123 |
+| Empfang | Team Empfang | empfang@haeuslertechnologie.ch | 100 |
+| Qualitätsmanagement | Thomas Frei | t.frei@haeuslertechnologie.ch | 215 |
+| Buchhaltung / Spesen | Karin Brunner | k.brunner@haeuslertechnologie.ch | 302 |
+
+Notfall-Nummer (24h, nur bei Betriebsausfall): +41 52 999 00 11
+
+================================================================================
+HÄUFIG GESTELLTE FRAGEN (FAQ)
+================================================================================
+
+F: Ich habe mein Passwort vergessen — was tun?
+A: Rufen Sie den IT-Helpdesk an (Durchwahl 0) oder mailen Sie von einem privaten Gerät an it-helpdesk@haeuslertechnologie.ch. Passwort-Reset dauert max. 30 Minuten.
+
+F: Wie beantrage ich zusätzliche Software?
+A: Über MyHR → «Software-Anfrage». Muss von Führungskraft und IT genehmigt werden. Faustregel: 3–5 Werktage.
+
+F: Wo finde ich Dokumentvorlagen (Word, PowerPoint, Excel)?
+A: Im Shared Drive unter \\shared\Vorlagen\ oder im Intranet unter «Tools & Vorlagen».
+
+F: Kann ich meinen privaten Laptop für die Arbeit verwenden (BYOD)?
+A: Nein. Aus Sicherheitsgründen dürfen keine privaten Geräte an das Unternehmensnetz angeschlossen werden. Ausnahmen nur mit schriftlicher Genehmigung der IT-Leitung.
+
+F: Wie melde ich mich für Schulungen an?
+A: Im Intranet unter «Weiterbildung» oder direkt bei HR. Obligatorische Einstiegsschulungen sind im ersten Monat zu absolvieren.

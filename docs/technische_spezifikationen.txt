@@ -1,0 +1,195 @@
+HÄUSLER TECHNOLOGIE AG — TECHNISCHE ENTWICKLUNGSRICHTLINIEN & F&E-STANDARDS
+Abteilung: Forschung & Entwicklung (F&E)
+Zugriff: technisch, gl
+Version 2.2 | Stand: Januar 2025 | Freigabe: F&E-Leitung
+
+================================================================================
+1. F&E-ORGANISATION UND AUFTRAG
+================================================================================
+
+Die F&E-Abteilung der Häusler Technologie AG umfasst 18 Mitarbeitende
+(12 Entwicklungsingenieure, 4 Konstrukteure, 2 Techniker).
+
+Kernaufgaben:
+- Entwicklung neuer Produkte und Produktvarianten (HV-, SB-, HZ-, HA-Serien)
+- Weiterentwicklung bestehender Produktlinien (Leistung, Effizienz, Kosten)
+- Technische Beratung Vertrieb (Applikationsingenieure)
+- Prototypenfertigung und Prüfstandstests
+- Normungsaktivitäten (Mitarbeit in Fachgremien ISO TC131, SN)
+
+F&E-Leitung: Dr. Stefan Hofer
+E-Mail: s.hofer@haeuslertechnologie.ch | Durchwahl: 500
+
+================================================================================
+2. PRODUKTENTWICKLUNGSPROZESS (PEP)
+================================================================================
+
+2.1 Phasen des Produktentwicklungsprozesses
+
+Phase 0: IDEATION & BEWERTUNG (4–8 Wochen)
+- Marktanforderungen und Kundenbedürfnisse erfassen
+- Technische Machbarkeitsstudie
+- Business Case Abschätzung (F&E-Budget, time-to-market, Umsatzpotenzial)
+- Go/No-Go Entscheid durch GL
+
+Phase 1: KONZEPT (8–12 Wochen)
+- Anforderungsspezifikation (AS) erstellen
+- Konzeptvarianten erarbeiten, Konzeptauswahl (Pugh-Matrix)
+- Auslegungsberechnungen (FEM, CFD für kritische Komponenten)
+- Risikoanalyse (FMEA)
+- Meilensteinreview: F&E-Leitung + QM
+
+Phase 2: ENTWICKLUNG (12–24 Wochen)
+- Detailkonstruktion in SOLIDWORKS 2024
+- Zeichnungsableitung nach ISO 128 / DIN 6771
+- Toleranzanalyse (statistische Methoden)
+- Prototypenfertigung (intern oder externer Prototypendienstleister)
+- Prüfstandstests nach Testplan (TP-xxx)
+
+Phase 3: VALIDIERUNG (8–12 Wochen)
+- Design Verification Tests (DVT)
+- Dauerlaufversuche (min. 500'000 Lastspiele für HV-Serie)
+- Externe Prüfung bei Bedarf (TÜV, DEKRA, Empa)
+- Serienfreigabe durch QM und F&E-Leitung
+
+Phase 4: SERIENANLAUF (4–8 Wochen)
+- Erstmusterfreigabe (EMPB nach VDA 2)
+- Übergabe an Produktion inkl. Fertigungsunterlagen
+- Schulung Produktion und Qualitätsprüfung
+- Markteinführungsfreigabe durch GL
+
+2.2 Änderungsmanagement (Engineering Change Management, ECM)
+Technische Änderungen an bestehenden Produkten erfordern:
+- Änderungsantrag (ÄA) in SAP PLM-Modul
+- Bewertung durch F&E, Produktion, QM, Einkauf
+- Klassifizierung: A (dokumentarisch), B (Funktion unverändert), C (Funktion geändert)
+- Klasse C: vollständige Prüfvalidierung, neue FMEA, neue Seriennummernreihe
+
+================================================================================
+3. KONSTRUKTIONSRICHTLINIEN
+================================================================================
+
+3.1 CAD-Standards
+Software: SOLIDWORKS 2024 (Primär), AutoCAD 2024 (Legacy)
+Dateiablage: PDM-System (SOLIDWORKS PDM Professional), Server: \\pdm-server\
+Namenskonvention: HT-[Produktfamilie]-[Artikelnummer]-[Version]
+Beispiel: HT-HV400-4001-005 (Gehäuse HV-400, Version 5)
+
+Für neue Projekte ist ausschliesslich SOLIDWORKS zu verwenden.
+Zeichnungsfreigabe: 4-Augen-Prinzip (Ersteller + F&E-Leitung oder Senior-Ingenieur)
+
+3.2 Berechnungsstandards
+Druckbehälterauslegung: Druckgeräterichtlinie 2014/68/EU, AD 2000-Regelwerk
+Statische Berechnung: FEM mit SOLIDWORKS Simulation (Nachweis Sicherheitsfaktor > 2.5)
+Ermüdungsberechnung: FKM-Richtlinie, Sicherheitsfaktor > 1.5 bei 10^6 Lastspielen
+Hydraulische Auslegung: DIN ISO 4413 (Sicherheitsanforderungen hydraulischer Systeme)
+
+3.3 Normungspflicht
+Folgende Normen sind bei der Entwicklung verbindlich einzuhalten:
+- ISO 4413: Allgemeine Regeln und Sicherheitsanforderungen Hydraulik
+- ISO 6020/6022: Hydraulikzylinder
+- ISO 4401: Hydraulikventile, Einbauplatten
+- ISO 1219: Schaltzeichen für Hydraulik
+- DIN 51524: Hydrauliköle (Anforderungen an Betriebsmittel)
+- CE-Konformität: Maschinenrichtlinie 2006/42/EG (bei Aggregaten)
+
+================================================================================
+4. PRÜFSTANDSINFRASTRUKTUR (GEBÄUDE C)
+================================================================================
+
+4.1 Druckprüfstände
+Prüfstand P-01: max. 700 bar, 200 l/min, temperiertes Medium (10–120°C)
+  → Drucktests, Leckageprüfung, Dauerlauf HV-600
+Prüfstand P-02: max. 400 bar, 400 l/min, Servoantrieb
+  → Dynamische Tests, Proportionalventile (HV-400), Frequenzgangmessung
+Prüfstand P-03: max. 250 bar, 600 l/min
+  → Volumenstromkennlinien, Druckverlustmessungen, Prüfung HV-200/SB-Blöcke
+
+4.2 Zylinderprüfstand
+Prüfstand Z-01: Hubkraft bis 500 kN, Hub bis 2500 mm
+  → Endlagenpuffer, Leckagetest, Endlaufversuch HZ-SERVO
+
+4.3 Klimaprüfkammer
+Temperaturbereich: -40°C bis +120°C, Luftfeuchtigkeit 10–95 % r.F.
+  → Umgebungseinflüsse, Dichtungsprüfung unter Temperaturwechsel
+
+4.4 Buchung Prüfstände
+Prüfstandsbelegungsplan: Outlook-Kalender «Prüfstände F&E»
+Ansprechperson: Markus Kohler, Techniker F&E | Durchwahl: 510
+
+================================================================================
+5. TECHNISCHE SPEZIFIKATIONEN — HAUPTPRODUKTE
+================================================================================
+
+5.1 HV-400 Proportionalwegeventil — Technisches Datenblatt
+
+Funktion: Stufenlose Steuerung von Durchfluss und Richtung
+Konstruktionsprinzip: Direktgesteuertes Proportionalwegeventil, 4/3-Wegeschaltung
+
+Hydraulische Daten:
+- Nenndurchfluss bei 5 bar Druckabfall: 60 l/min
+- Maximaldurchfluss: 80 l/min (bei max. 10 bar ΔP)
+- Betriebsdruck max.: 350 bar (Statisch), 280 bar (Dynamisch, 10^7 Zyklen)
+- Leckage intern: < 1.5 l/min bei 350 bar (Hydrauliköl ISO VG 46, 50°C)
+- Viskositätsbereich: 20–380 mm²/s
+
+Elektrische Daten Proportionalmagnet:
+- Nennspannung: 24 V DC ± 10 %
+- Nennstrom: 1.8 A (Vollhub)
+- Schutzklasse: IP 65 (EN 60529)
+- Steckverbinder: AMP Junior Timer, 2-polig
+
+Regelungskenndaten:
+- Hysterese: < 0.3 % (bei ±10 % Sprunganregung)
+- Auflösung: < 0.1 % (stufenlos)
+- Wiederholgenauigkeit: ± 0.2 %
+- Ansprechzeit 0–100 %: < 35 ms
+- Frequenzgang (-3dB): > 12 Hz (Sinusanregung 25 % Amplitude)
+
+Mechanische Daten:
+- Nenngrösse: NG 10 (ISO 4401-03)
+- Anschlussplatte: D05 nach ISO 4401
+- Anschlüsse: 4 × G 3/8" (P, T, A, B)
+- Gewicht: 2.4 kg (ohne Magnet)
+- Einbaulage: beliebig
+- Material Gehäuse: GGG-40 (Sphäroguss)
+- Oberflächenschutz: Phosphatiert + Lackierung RAL 7016
+
+Betriebsbedingungen:
+- Umgebungstemperatur: -20°C bis +70°C
+- Hydraulikmittel: Mineralöl nach DIN 51524 Teil 2 (HL/HLP), Brandschutzflüssigkeiten HFDU auf Anfrage
+- Filterfeinheit: min. 25 µm absolut (empfohlen: 10 µm)
+
+5.2 HV-600 Hochdruck-Sitzventil — Technisches Datenblatt
+
+Funktion: Dichtschliessendes Absperrventil für höchste Drücke
+Konstruktionsprinzip: Direktgesteuertes Sitzventil, 2/2-Wegeschaltung
+
+Hydraulische Daten:
+- Betriebsdruck max.: 500 bar
+- Nenndurchfluss bei 5 bar ΔP: 150 l/min
+- Leckage: < 1 ml/min bei Nenndruck (externe Leckage: 0)
+- Nenngrösse: NG 16 (ISO 4401-05)
+
+ATEX-Ausführung (Option):
+Zone 2 (Gas): II 2G Ex ec IIC T4 Gb
+Aufpreis: ca. 40 % auf Standardpreis
+Lieferzeit ATEX: +4 Wochen
+Prüfung: PTB-zertifiziert
+
+================================================================================
+6. INTELLECTUAL PROPERTY UND GEHEIMHALTUNG
+================================================================================
+
+Alle im Rahmen des Arbeitsverhältnisses entwickelten Erfindungen, Designs und
+technischen Konzepte sind Eigentum der Häusler Technologie AG.
+Mitarbeitende sind verpflichtet, Erfindungen unverzüglich zu melden
+(Formular «Erfindungsmeldung» bei F&E-Leitung oder Sekretariat GL).
+
+Aktive Patente der Häusler AG: 7 (Stand Januar 2025)
+Patentanmeldungen in Bearbeitung: 3
+Patentanwalt: Dr. Isler & Partner AG, Zürich
+
+Geheimhaltung: Alle technischen Zeichnungen, Berechnungen, Prüfberichte und
+Entwicklungsunterlagen sind als «Vertraulich» zu behandeln.
+Weitergabe an Dritte: nur mit schriftlicher Genehmigung F&E-Leitung und GL.

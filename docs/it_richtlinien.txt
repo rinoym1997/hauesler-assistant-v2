@@ -1,0 +1,135 @@
+HÄUSLER TECHNOLOGIE AG — IT-SICHERHEITSRICHTLINIE
+Version 4.0 | Gültig ab: 1. März 2025
+Herausgegeben durch: IT-Abteilung | Genehmigt durch: Geschäftsleitung
+
+================================================================================
+1. ZWECK UND GELTUNGSBEREICH
+================================================================================
+
+Diese IT-Sicherheitsrichtlinie legt die verbindlichen Regeln für die Nutzung der IT-Infrastruktur der Häusler Technologie AG fest. Sie gilt für alle Mitarbeitenden, Lernende, externe Dienstleister und Besucher, die Zugang zu IT-Systemen des Unternehmens erhalten.
+
+Ziel ist der Schutz von Unternehmensdaten, IT-Systemen und der Privatsphäre von Mitarbeitenden und Kunden vor Datenverlust, Missbrauch und Cyberangriffen.
+
+================================================================================
+2. PASSWÖRTER UND ZUGANGSDATEN
+================================================================================
+
+2.1 Passwortanforderungen
+- Mindestlänge: 12 Zeichen
+- Muss enthalten: Grossbuchstabe, Kleinbuchstabe, Zahl, Sonderzeichen (!@#$%&*)
+- Ablauf: alle 90 Tage (automatische Aufforderung)
+- Wiederverwendung: die letzten 10 Passwörter dürfen nicht verwendet werden
+
+2.2 Passwort-Sicherheit
+- Passwörter dürfen nicht notiert, gespeichert oder weitergegeben werden
+- Empfohlen: Nutzung eines Passwort-Managers (Bitwarden — wird durch IT gestellt)
+- Bei Verdacht auf Kompromittierung: sofortige Meldung an IT-Helpdesk und sofortige Änderung
+
+2.3 Multi-Faktor-Authentifizierung (MFA)
+MFA ist obligatorisch für:
+- VPN-Zugang (Microsoft Authenticator)
+- Microsoft 365 / Teams (Microsoft Authenticator)
+- MyHR / TimeSafe (SMS-Token)
+MFA-Codes dürfen nicht mit Dritten geteilt werden.
+
+================================================================================
+3. USB-STICKS UND EXTERNE DATENTRÄGER
+================================================================================
+
+3.1 Grundsatz
+Die Nutzung privater USB-Sticks, externer Festplatten und anderer Wechseldatenträger an Unternehmensgeräten ist grundsätzlich verboten. Nicht autorisierte USB-Geräte werden durch das Endpoint-Security-System automatisch blockiert.
+
+3.2 Ausnahmen
+Ausnahmen sind nur mit schriftlicher Genehmigung der IT-Leitung möglich. Genehmigte USB-Sticks müssen:
+- verschlüsselt sein (AES-256, z.B. Kingston IronKey)
+- aus dem IT-Lager bezogen werden (nicht privat)
+- nach Nutzung beim IT-Helpdesk abgegeben werden
+
+3.3 Datentransfer
+Für den internen Datentransfer ist SharePoint / OneDrive zu verwenden. Externe Dateiübertragung: über den vom IT genehmigten Dienst (SecureTransfer, intern verfügbar). Cloud-Dienste wie Google Drive, Dropbox oder WeTransfer sind nicht gestattet.
+
+================================================================================
+4. INTERNET- UND E-MAIL-NUTZUNG
+================================================================================
+
+4.1 Akzeptable Nutzung
+Die IT-Infrastruktur ist primär für berufliche Zwecke bestimmt. Eine massvolle private Nutzung (max. 30 Min./Tag) ist geduldet, sofern sie die Arbeit nicht beeinträchtigt.
+
+4.2 Verbotene Inhalte
+Folgende Inhalte und Dienste sind auf Unternehmensgeräten und -netzwerken verboten:
+- Pornografische, gewaltverherrlichende, rassistische oder illegale Inhalte
+- Peer-to-Peer-Filesharing (Torrents etc.)
+- Nicht autorisierte Software (Cracking-Tools, Hacking-Utilities)
+- Social Media während der Kernarbeitszeiten (ausser für Marketingaufgaben genehmigt)
+- Kryptowährungs-Mining
+
+4.3 E-Mail
+- Unternehmens-E-Mail darf nicht für private Abonnements genutzt werden
+- Phishing-Verdacht: E-Mail nicht anklicken, als Anhang an security@haeuslertechnologie.ch weiterleiten
+- Vertrauliche Daten dürfen nur verschlüsselt per E-Mail versendet werden (S/MIME — bei IT anfragen)
+
+================================================================================
+5. IT-INCIDENT-MELDEPROZESS
+================================================================================
+
+5.1 Was ist ein IT-Incident?
+Ein IT-Incident ist jedes Ereignis, das den normalen IT-Betrieb beeinträchtigt oder beeinträchtigen könnte:
+- Verdacht auf Malware oder Ransomware
+- Phishing-E-Mail empfangen oder angeklickt
+- Datenverlust oder unberechtigter Datenzugang
+- Geräteverlust oder -diebstahl (Laptop, Smartphone)
+- Ungewöhnliches Systemverhalten
+
+5.2 Meldeprozess
+1. SOFORT: Gerät vom Netz trennen (Ethernet-Kabel ziehen, WLAN deaktivieren)
+2. SOFORT: IT-Helpdesk anrufen: Durchwahl 0 oder +41 52 123 45 00
+3. Ausserhalb Bürozeiten: Notfall-Hotline +41 52 999 00 11
+4. Kein Neustart des Geräts ohne Anweisung der IT
+5. Schriftliche Meldung im Ticket-System nachreichen (Helpdesk erstellt dies mit Ihnen)
+
+5.3 Reaktionszeiten IT-Helpdesk
+- Kritischer Incident (Ransomware, Datenverlust): sofortige Reaktion, 24/7
+- Hoher Incident (Systemausfall, Zugang gesperrt): < 2 Stunden innerhalb Bürozeiten
+- Mittlerer Incident (Software-Fehler, langsames System): < 4 Stunden
+- Tiefer Incident (allgemeine Anfragen): < 1 Werktag
+
+================================================================================
+6. MOBILE GERÄTE UND HOMEOFFICE
+================================================================================
+
+6.1 Firmenlaptop
+- Firmenlaptops dürfen nicht für Privatgebrauch anderer Haushaltsmitglieder genutzt werden
+- Automatischer Sperrbildschirm nach 5 Minuten Inaktivität (nicht deaktivierbar)
+- Vollverschlüsselung (BitLocker) ist aktiviert — Wiederherstellungsschlüssel liegt bei IT
+- Aktualisierungen (Windows Updates) werden automatisch eingespielt, Neustart wenn nötig
+
+6.2 Smartphone (Firmenhandy)
+- Firmenhandys werden für Funktionen mit Kundenkontakt und Kaderverantwortung ausgegeben
+- Anforderung über Führungskraft und IT-Helpdesk
+- Private Nutzung: moderat erlaubt (gleiche Regeln wie Laptop)
+
+6.3 Homeoffice-Sicherheit
+- VPN-Verbindung bei Zugriff auf interne Ressourcen obligatorisch
+- Keine Nutzung öffentlicher WLAN-Netze (Café, Hotel) ohne VPN
+- Bildschirm bei Abwesenheit sperren (Windows: Win+L)
+- Physischer Schutz: Laptop nicht unbeaufsichtigt in öffentlichen Räumen
+
+================================================================================
+7. VERSTÖSSE UND KONSEQUENZEN
+================================================================================
+
+Verstösse gegen diese Richtlinie können disziplinarische Massnahmen bis hin zur fristlosen Kündigung nach sich ziehen, je nach Schwere des Verstosses. Schwerwiegende Verstösse (Datenweitergabe, absichtliche Sabotage) können strafrechtliche Konsequenzen haben (StGB Art. 143, 143bis).
+
+================================================================================
+KONTAKT IT-ABTEILUNG
+================================================================================
+
+IT-Helpdesk (Bürozeiten Mo–Fr 07:30–18:00):
+Durchwahl: 0 | E-Mail: it-helpdesk@haeuslertechnologie.ch
+Standort: Gebäude A, Raum A1.05
+
+IT-Leitung: Michael Stöckli
+E-Mail: m.stoeckli@haeuslertechnologie.ch | Durchwahl: 110
+
+Security-Meldungen: security@haeuslertechnologie.ch
+Notfall (24h): +41 52 999 00 11

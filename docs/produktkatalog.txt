@@ -1,0 +1,175 @@
+HÄUSLER TECHNOLOGIE AG — PRODUKTKATALOG 2025
+Hydraulische Steuerungssysteme und Komponenten
+Vertrieb: vertrieb@haeuslertechnologie.ch | Tel. +41 52 123 45 00
+
+================================================================================
+UNTERNEHMENSÜBERSICHT
+================================================================================
+
+Die Häusler Technologie AG entwickelt und produziert seit 1987 hydraulische Steuerungssysteme für den Maschinen- und Anlagenbau. Unsere Produkte kommen in den Bereichen Fördertechnik, Pressen- und Umformtechnik, mobile Arbeitsmaschinen sowie Sondermaschinen zum Einsatz.
+
+Produktionsstandort: Winterthur, Schweiz
+Zertifizierungen: ISO 9001:2015, ISO 14001:2015
+Lieferzeit Standardprodukte: 3–5 Werktage
+Lieferzeit Sonderanfertigungen: 4–8 Wochen
+
+================================================================================
+PRODUKTLINIE 1: HYDRAULIKVENTILE — HV-SERIE
+================================================================================
+
+HV-200 — Wegeventil 4/2 (kompakt)
+Anwendung: Kleine Steuerungsaufgaben, mobile Maschinen
+Nenngrösse: NG 6
+Nenndurchfluss: bis 30 l/min
+Betriebsdruck: max. 250 bar
+Betätigungsarten: mechanisch, federrückgestellt
+Gewicht: 0.8 kg
+Preis ab Werk: CHF 185.00
+Mindestbestellmenge: 1 Stück
+
+HV-400 — Proportionalwegeventil 4/3
+Anwendung: Präzise Steuerung von Geschwindigkeit und Kraft in Industriepressen, Umformmaschinen, Prüfständen
+Nenngrösse: NG 10
+Nenndurchfluss: bis 80 l/min
+Betriebsdruck: max. 350 bar
+Hysterese: < 0.3 %
+Auflösung: < 0.1 %
+Betätigungsarten: elektrohydraulisch, 24V DC Proportionalmagnet
+Schutzklasse: IP 65
+Temperaturbereich: -20 °C bis +70 °C
+Anschlüsse: G 3/8"
+Gewicht: 2.4 kg
+Preis ab Werk: CHF 1'250.00
+Lieferzeit: 5–8 Werktage
+Mindestbestellmenge: 1 Stück
+Referenzen: Bühler AG, Bystronic, Liebherr
+
+HV-600 — Hochdruck-Sitzventil
+Anwendung: Dichtschliessende Absperrung in Hochdrucksystemen, Spritzgiessmaschinen, Schmiedepressen
+Nenngrösse: NG 16
+Nenndurchfluss: bis 200 l/min
+Betriebsdruck: max. 500 bar
+Leckage: < 1 ml/min bei 500 bar
+Betätigungsarten: direkt gesteuert, elektromagnetisch (24V/220V)
+Anschlüsse: G 3/4"
+Gewicht: 4.8 kg
+Preis ab Werk: CHF 2'890.00
+Lieferzeit: 8–12 Werktage
+Zertifikate: CE, ATEX Zone 2 (Option)
+
+================================================================================
+PRODUKTLINIE 2: STEUERBLÖCKE — SB-SERIE
+================================================================================
+
+SB-100 — Kompaktsteuerblock (Einzelstation)
+Beschreibung: Vorgefertigter Steuerblock für Standard-Hydraulikschaltungen, bereits intern gebohrt und geprüft.
+Anschlussplatte: D03/D05 nach ISO 4401
+Max. Druck: 250 bar
+Max. Durchfluss: 60 l/min
+Freie Kanalanzahl: bis 8
+Gewicht: 3.2 kg
+Preis ab CHF 780.00 (je nach Konfiguration)
+Konfiguration auf Anfrage über Vertrieb
+
+SB-500 — Modularer Steuerblock (Mehrfachstation)
+Beschreibung: Für komplexe Mehrkreis-Hydrauliken. Individuell konfigurierbar, kurze Durchlaufzeiten durch standardisierte Basisplatten.
+Stationen: 2–12 (erweiterbar)
+Anschlussplatte: D05/D08 nach ISO 4401
+Max. Druck: 350 bar
+Max. Durchfluss: 150 l/min pro Station
+Preis ab CHF 3'200.00 (Basisblock 4 Stationen)
+Lieferzeit Sonderkonfiguration: 3–6 Wochen
+Referenz: AGATHON AG, Fischer AG, Güdel AG
+
+================================================================================
+PRODUKTLINIE 3: HYDRAULIKZYLINDER — HZ-SERIE
+================================================================================
+
+HZ-STD — Standardzylinder (ISO 6020/6022)
+Kolbendurchmesser: 25–200 mm
+Hublänge: bis 2000 mm
+Betriebsdruck: max. 160 bar
+Kolbenstangenwerkstoff: C45 (verchromt), optional Edelstahl 1.4021
+Dichtungssystem: Standarddichtung (NBR), Hochtemperatur (FKM), Lebensmittelecht (EPDM)
+Oberfläche Zylinderrohr: gerollt, kalibriert, Ra 0.6
+Preis ab CHF 220.00 (kleinstmögliche Ausführung)
+Lieferzeit Standard: 2 Wochen | Sonder: 4–6 Wochen
+
+HZ-SERVO — Servohydraulikzylinder
+Anwendung: Hochgenaue Positionieraufgaben, Prüfstände, Simulatoren
+Positioniergenauigkeit: ± 0.01 mm
+Integrierter Wegmesser: induktiv, magnetostriktiv (Option)
+Betriebsdruck: max. 280 bar
+Kolbendurchmesser: 50–160 mm
+Hublänge: bis 1200 mm
+Preis auf Anfrage (ab CHF 8'500.00)
+Lieferzeit: 6–10 Wochen
+
+================================================================================
+PRODUKTLINIE 4: HYDRAULIKAGGREGAT — HA-SERIE
+================================================================================
+
+HA-3 — Kompaktaggregat (bis 3 kW)
+Tankinhalt: 20–60 Liter
+Motorleistung: 0.75 – 3 kW, 400V / 50 Hz
+Pumpenbauart: Zahnradpumpe
+Förderstrom: bis 12 l/min
+Max. Druck: 250 bar
+Ausführung: Edelstahl-Tank (Option), Heizung (Option), Kühlung (Option)
+Preis ab CHF 1'850.00
+Lieferzeit: 1–2 Wochen
+
+HA-30 — Industrieaggregat (bis 30 kW)
+Tankinhalt: 150–500 Liter
+Motorleistung: 5.5 – 30 kW, 400V / 50 Hz
+Pumpenbauart: Axialkolbenpumpe (Verstellpumpe)
+Förderstrom: bis 120 l/min
+Max. Druck: 350 bar
+Kühlung: Wasserkühler (integriert)
+Filterung: Saug-, Druck-, Rücklauffilter kombiniert
+Überwachung: Öltemperatur, Ölstand, Filterverschmutzung
+Preis auf Anfrage (ab CHF 18'500.00)
+Lieferzeit: 4–8 Wochen
+
+================================================================================
+REFERENZPROJEKTE (AUSZUG)
+================================================================================
+
+Projekt: Pressenlinie Automobilindustrie
+Kunde: Konfidentiell (Tier-1-Zulieferer, Bayern)
+Lösung: 6 × HV-400 + SB-500 (8 Stationen) + HA-30
+Anwendung: Blechumformung, 1'200 kN Presskraft
+Jahr: 2023
+
+Projekt: Prüfstand Hydraulikkomponenten
+Kunde: Empa — Eidg. Materialprüfungs- und Forschungsanstalt, Dübendorf
+Lösung: HZ-SERVO (3 Achsen) + SB-100 + HA-3
+Anwendung: Dynamische Lebensdauerprüfung bis 350 bar
+Jahr: 2024
+
+Projekt: Fördertechnik Logistikzentrum
+Kunde: Migros Verteilbetrieb AG (fiktiv)
+Lösung: 24 × HV-200 + 4 × HA-3
+Anwendung: Hubstationen, Weichensteuerung
+Jahr: 2022
+
+Projekt: Sondermaschine Holzbearbeitung
+Kunde: Homag Group (Deutschland)
+Lösung: SB-500 (6 Stationen) + HZ-STD (12 Zylinder) + HA-30
+Anwendung: CNC-gesteuertes Spannsystem
+Jahr: 2024
+
+================================================================================
+KONDITIONEN UND BESTELLPROZESS
+================================================================================
+
+Preise verstehen sich exklusive Mehrwertsteuer, ab Werk Winterthur (EXW Incoterms 2020).
+Mindestbestellwert: CHF 100.00
+Zahlungsbedingungen: 30 Tage netto (Neukunden: Vorauszahlung oder Bankgarantie)
+Skonto: 2 % bei Zahlung innert 10 Tagen
+Garantie: 24 Monate ab Lieferdatum gemäss unseren AGB
+
+Bestellungen an: vertrieb@haeuslertechnologie.ch
+Technische Fragen: technik@haeuslertechnologie.ch
+
+Preisänderungen vorbehalten. Stand: Januar 2025.

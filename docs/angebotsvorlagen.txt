@@ -1,0 +1,138 @@
+HÄUSLER TECHNOLOGIE AG — VERTRIEBSHANDBUCH & ANGEBOTSVORLAGEN
+Version 1.8 | Januar 2025
+Herausgegeben durch: Vertriebsleitung | Andreas Kaufmann
+
+================================================================================
+1. ANGEBOTSPROZESS — ÜBERSICHT
+================================================================================
+
+Der Angebotsprozess bei der Häusler Technologie AG gliedert sich in fünf Phasen:
+
+Phase 1: LEAD-QUALIFIZIERUNG
+- Eingang Anfrage (E-Mail / Telefon / Messe)
+- Erstgespräch mit Kunde: Bedarfsklärung, Budget, Zeitrahmen
+- CRM-Eintrag erstellen (Salesforce): Firma, Kontakt, Anforderungen
+- Entscheid: Angebot sinnvoll? → JA → Phase 2 | NEIN → Absage mit Dank
+
+Phase 2: TECHNISCHE KLÄRUNG
+- Anforderungen intern mit Technik besprechen (Thomas Frei, Technik, Durchwahl 215)
+- Machbarkeit prüfen: Standardprodukt oder Sonderanfertigung?
+- Bei Sonderanfertigung: Aufwandsschätzung durch Technik (48h-Vorlaufzeit)
+- Konfigurationsblatt ausfüllen (Vorlage: \\shared\Vorlagen\Vertrieb\Konfiguration.xlsx)
+
+Phase 3: ANGEBOTSERSTELLUNG
+- Vorlage aus Shared Drive: \\shared\Vorlagen\Vertrieb\Angebotsvorlage_2025.docx
+- Preisbestimmung: SAP Business One → Modul «Angebote» (Listenpreise + Rabattstaffel)
+- Rabattrahmen ohne Genehmigung: bis 5 % (Sachbearbeiter), bis 12 % (Account Manager)
+- Rabatt > 12 %: schriftliche Genehmigung Vertriebsleitung (andreas.kaufmann@haeuslertechnologie.ch)
+- Lieferzeit: Rücksprache mit Logistik (logistik@haeuslertechnologie.ch) für aktuelle Verfügbarkeit
+- Zahlungsbedingungen Standard: 30 Tage netto (Abweichungen: Genehmigung Buchhaltung)
+
+Phase 4: REVIEW UND VERSAND
+- Gegenangebot durch Kollegin/Kollegen prüfen lassen (Vier-Augen-Prinzip)
+- Angebot in Salesforce hinterlegen (Status: «Versendet»)
+- Versand per E-Mail (CC: Vertriebsassistenz)
+- Angebotsgültigkeit: standardmässig 30 Tage
+
+Phase 5: NACHVERFOLGUNG
+- Follow-up nach 5 Arbeitstagen (E-Mail oder Telefon)
+- Bei Auftragseingang: Auftragsbestätigung innert 24h über SAP Business One
+- Bei Ablehnung: Grund in Salesforce dokumentieren
+
+================================================================================
+2. RABATTSTAFFEL (STANDARDPRODUKTE)
+================================================================================
+
+| Auftragsvolumen | Max. Rabatt (ohne GL-Genehmigung) |
+|---|---|
+| CHF 0 – 5'000 | 3 % |
+| CHF 5'001 – 20'000 | 5 % |
+| CHF 20'001 – 100'000 | 8 % |
+| CHF 100'001 – 500'000 | 12 % |
+| > CHF 500'000 | Verhandlung mit Vertriebsleitung |
+
+Sonderanfertigungen: kein Standardrabatt, Preis auf Kalkulation basierend.
+Exportkunden (Nicht-DACH): zusätzlich 2 % Preisaufschlag für Exportadministration.
+
+================================================================================
+3. REFERENZPROJEKTE (VOLLSTÄNDIGE LISTE)
+================================================================================
+
+AUTOMOBILINDUSTRIE
+- BMW Werk Leipzig: Pressenlinie Karosserieteile, HV-400 + SB-500, 2023
+- Magna International (Österreich): Spannsystem, HZ-STD + SB-100, 2022
+- Tier-1-Zulieferer Bayern (konfidentiell): Blechumformung, 2023
+
+FÖRDERTECHNIK
+- Migros Verteilbetrieb AG: Hubstationen Logistikzentrum, HV-200 + HA-3, 2022
+- PostLogistics AG: Sortiertechnik-Hydraulik, HV-400 + SB-500, 2021
+- Güdel AG: Portalroboter-Hydraulik, HZ-SERVO + SB-500, 2023
+
+PRESSEN- UND UMFORMTECHNIK
+- Bühler AG (Uzwil): Druckguss-Zuhaltehydraulik, HV-600 + HA-30, 2024
+- Bystronic (Niederönz): Abkantpresse, HV-400 + HZ-STD, 2023
+- AGATHON AG: Schleifmaschinen-Hydraulik, SB-500, 2022
+
+PRÜFSTÄNDE UND F&E
+- Empa Dübendorf: Materialprüfstand, HZ-SERVO (3 Achsen) + HA-3, 2024
+- ETH Zürich (Maschinenbau-Labor): Versuchsstand Strömungslehre, 2023
+- Fraunhofer IWU (Dresden): Umformtechnik-Prüfstand, 2022
+
+SONDERMASCHINEN
+- Homag Group: CNC-Spannsystem Holzbearbeitung, 2024
+- Fischer AG (Tumlingen): Transferstrasse, SB-100 + HZ-STD, 2023
+- Liebherr (Nenzing): Mobilkran-Steuerungsblock, HV-600, 2024
+
+================================================================================
+4. TYPISCHE ANGEBOTSBAUSTEINE
+================================================================================
+
+BAUSTEIN A: STANDARDANGEBOT EINZELVENTILE
+"Sehr geehrte Damen und Herren
+Vielen Dank für Ihre Anfrage vom [DATUM]. Gerne unterbreiten wir Ihnen folgendes Angebot:
+
+Pos. 1: [PRODUKT] [MENGE] Stück à CHF [PREIS] = CHF [TOTAL]
+Pos. 2: ...
+Gesamtbetrag exkl. MwSt.: CHF [TOTAL]
+MwSt. 8.1 %: CHF [MWST]
+Gesamtbetrag inkl. MwSt.: CHF [BRUTTO]
+
+Lieferzeit: [X] Werktage ab Auftragsbestätigung
+Zahlungsbedingungen: 30 Tage netto
+Gültigkeit dieses Angebots: 30 Tage ab Datum
+Lieferbedingungen: EXW Winterthur (Incoterms 2020)"
+
+BAUSTEIN B: SONDERANFERTIGUNG (ZUSATZTEXT)
+"Die angebotene Lösung ist eine Sonderanfertigung gemäss Ihren technischen Spezifikationen vom [DATUM]. Wir empfehlen vor Serienauftrag eine Musterfertigung und Abnahmetest in unserem Werk. Kosten Muster: CHF [X], wird bei Serienauftrag > 10 Einheiten angerechnet."
+
+BAUSTEIN C: SERVICE UND WARTUNG
+"Auf Wunsch bieten wir folgende Serviceleistungen an:
+- Inbetriebnahme vor Ort: CHF 850.00/Tag + Spesen
+- Schulung Bedienpersonal: CHF 650.00/Tag (max. 8 Personen)
+- Wartungsvertrag: auf Anfrage, je nach Umfang ab CHF 500.00/Jahr"
+
+================================================================================
+5. HÄUFIGE KUNDENFRAGEN UND ANTWORTEN
+================================================================================
+
+F: Haben Sie Produkte nach ATEX-Zertifizierung?
+A: Ja, ausgewählte Produkte der HV-600-Serie sind in ATEX-Ausführung Zone 2 erhältlich (Aufpreis ca. 40 %). Anfrage an technik@haeuslertechnologie.ch.
+
+F: Können Sie auch nach Kundenmuster fertigen?
+A: Ja, wir fertigen nach Zeichnung oder Muster. Vorlaufzeit für Erstzeichnung: 1–2 Wochen. Für Reverse Engineering (Abmessen eines Musters) bitten wir um Einsendung des Originals.
+
+F: Gibt es eine ISO-Zertifizierung?
+A: Ja, Häusler Technologie AG ist nach ISO 9001:2015 und ISO 14001:2015 zertifiziert. Zertifikate finden Sie auf unserer Website oder auf Anfrage.
+
+F: Was ist die Mindestbestellmenge?
+A: Für Standardprodukte gibt es keine Mindestbestellmenge (Mindestbestellwert CHF 100.00). Für Sonderanfertigungen gilt eine Mindestmenge von 5 Stück; Ausnahmen nach Absprache.
+
+================================================================================
+KONTAKT VERTRIEB
+================================================================================
+
+Vertriebsleitung: Andreas Kaufmann, a.kaufmann@haeuslertechnologie.ch, Durchwahl 200
+Vertrieb Inland: Team Inland, vertrieb.inland@haeuslertechnologie.ch, Durchwahl 201–205
+Vertrieb Export: Team Export, vertrieb.export@haeuslertechnologie.ch, Durchwahl 206–210
+Vertriebsassistenz: Maja Steiner, m.steiner@haeuslertechnologie.ch, Durchwahl 211
+Technischer Vertrieb: Thomas Frei, t.frei@haeuslertechnologie.ch, Durchwahl 215

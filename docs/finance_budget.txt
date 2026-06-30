@@ -1,0 +1,195 @@
+HÄUSLER TECHNOLOGIE AG — FINANZHANDBUCH & BUDGETPROZESS
+Abteilung: Finance & Controlling
+Zugriff: kommerziell, gl
+Version 2.3 | Stand: Januar 2025
+
+================================================================================
+1. ÜBERBLICK FINANZSTRUKTUR
+================================================================================
+
+Die Häusler Technologie AG schliesst ihr Geschäftsjahr per 31. Dezember ab.
+Der Jahresabschluss erfolgt nach Swiss GAAP FER. Revisionsstelle: BDO AG, Zürich.
+
+Kennzahlen Geschäftsjahr 2024 (intern):
+- Jahresumsatz: CHF 62.4 Mio. (Vorjahr: CHF 57.1 Mio., +9.3 %)
+- EBITDA-Marge: 14.2 %
+- Eigenkapitalquote: 58 %
+- Liquiditätsgrad II: 1.4
+- Mitarbeitende per 31.12.2024: 278 FTE
+
+Hauptumsatzträger nach Segment:
+- Hydraulikventile (HV-Serie): 38 % des Umsatzes
+- Steuerblöcke und Aggregate: 29 %
+- Zylinder und Sonderanfertigungen: 22 %
+- Service und Ersatzteile: 11 %
+
+================================================================================
+2. KOSTENSTELLENSTRUKTUR
+================================================================================
+
+Jede Buchung ist einer Kostenstelle zuzuweisen. Die Kostenstellen sind in SAP
+Business One hinterlegt und werden quartalsweise durch Controlling überprüft.
+
+Hauptkostenstellen:
+- 1000  Geschäftsleitung
+- 2000  Finance & Controlling
+- 3000  Human Resources
+- 4000  Information Technology
+- 5000  Forschung & Entwicklung
+- 6000  Produktion / Operations
+- 6100  Qualitätsmanagement
+- 6200  Logistik & Lager
+- 7000  Einkauf & Beschaffung
+- 8000  Vertrieb Inland
+- 8100  Vertrieb Export
+- 8200  Kundendienst & After Sales
+- 9000  Marketing & Kommunikation
+
+Fehlbuchungen auf falsche Kostenstellen sind innerhalb von 30 Tagen zu
+korrigieren. Korrekturbuchungen: Anfrage an buchhaltung@haeuslertechnologie.ch.
+
+================================================================================
+3. BUDGETPROZESS
+================================================================================
+
+3.1 Jahresbudget
+Der Budgetprozess startet jeweils im September für das Folgejahr:
+
+- September: Controlling versendet Budgetvorlagen an alle Abteilungsleiter
+- Oktober: Abteilungsbudgets werden eingereicht (Vorlage: SAP Business One,
+  Modul «Budgetplanung»)
+- November: Konsolidierung durch Finance, Abstimmung mit GL
+- Dezember: Verabschiedung Budget durch Verwaltungsrat
+- Januar: Kommunikation der genehmigten Budgets an Kostenstellen-Verantwortliche
+
+3.2 Budgetverantwortung
+Jede Kostenstelle hat einen definierten Budgetverantwortlichen (i.d.R. der
+Abteilungsleiter). Dieser ist für die Einhaltung des Budgets verantwortlich
+und muss Abweichungen > 10 % pro Quartal schriftlich begründen.
+
+3.3 Budgetcontrolling
+- Monatliches Reporting: Controlling erstellt bis zum 10. des Folgemonats
+  einen Soll-Ist-Vergleich für jede Kostenstelle
+- Quartalsweise: Budget-Review-Meeting mit GL und allen Abteilungsleitern
+- Massnahmen bei Budgetüberschreitung > 15 %: Eskalation an GL,
+  Massnahmenplan innert 2 Wochen
+
+================================================================================
+4. INVESTITIONS- UND AUSGABENGENEHMIGUNG
+================================================================================
+
+4.1 Genehmigungsschwellen (Investitionen und Einmalanschaffungen)
+
+Betrag                    Genehmigung durch
+CHF 0 – 2'000            Abteilungsleiter (im Rahmen des Budgets)
+CHF 2'001 – 10'000       Abteilungsleiter + Finance
+CHF 10'001 – 50'000      Geschäftsleitung (CEO oder CFO)
+CHF 50'001 – 200'000     Geschäftsleitung (einstimmig)
+> CHF 200'000            Verwaltungsrat
+
+Sämtliche Investitionsanträge > CHF 2'000 sind auf dem Formular
+«Investitionsantrag» (Vorlage: MyHR → Formulare → Finance) einzureichen
+und müssen eine Wirtschaftlichkeitsberechnung (Payback-Periode, NPV) enthalten.
+
+4.2 Betriebliche Ausgaben (wiederkehrend)
+Laufende Betriebsausgaben innerhalb des genehmigten Budgets können ohne
+zusätzliche Genehmigung durch den Kostenstellen-Verantwortlichen ausgelöst
+werden. Ausnahmen: IT-Lizenzen (immer über IT-Abteilung), externe Beratung
+(> CHF 5'000: Finance-Genehmigung).
+
+4.3 Nicht budgetierte Ausgaben
+Ausgaben ausserhalb des genehmigten Budgets benötigen unabhängig vom Betrag
+eine Genehmigung der nächsthöheren Ebene. Entsprechend gelten die Schwellen
+aus 4.1 plus schriftliche Begründung «Warum nicht budgetiert?».
+
+================================================================================
+5. MARGE UND PREISGESTALTUNG (VERTRIEB)
+================================================================================
+
+5.1 Mindestmargenanforderungen
+Die folgenden Mindestmargen gelten als Untergrenze für die Angebotsstellung
+und dürfen ohne GL-Genehmigung nicht unterschritten werden:
+
+Produktgruppe              Ziel-DB I (%)    Mindest-DB I (%)
+HV-Serie Standardprodukte    52 %              38 %
+Steuerblöcke (SB-Serie)      48 %              35 %
+Zylinder Standard (HZ-STD)   44 %              32 %
+Sonderanfertigungen           55 %              42 %
+Service & Ersatzteile         65 %              50 %
+Hydraulikaggregate (HA)       40 %              30 %
+
+DB I = Deckungsbeitrag nach variablen Kosten (Material + direkte Lohnkosten)
+
+5.2 Rabattgenehmigung (ergänzt Vertriebshandbuch)
+- Bis 5 %: Sachbearbeiter Vertrieb
+- 5 – 12 %: Account Manager
+- 12 – 20 %: Vertriebsleitung + Finance-Visum
+- > 20 %: GL-Genehmigung + Margenkalkulation obligatorisch
+
+Jeder Rabatt > 12 % muss in Salesforce dokumentiert werden inkl. Begründung
+und Genehmigungsnachweis. Finance prüft quartalsweise die Rabattstruktur.
+
+5.3 Währungsrisiko
+Umsätze in EUR werden monatlich zum EZB-Referenzkurs umgerechnet. Bei grossen
+Projekten in EUR > CHF 200'000 ist eine Kursabsicherung (Forward) mit Finance
+zu besprechen. USD-Umsätze: analog, Schwelle USD 100'000.
+
+================================================================================
+6. ZAHLUNGSVERKEHR UND MAHNWESEN
+================================================================================
+
+6.1 Zahlungsziele Kunden
+Standard: 30 Tage netto (Neukunden: Vorauszahlung oder Bankgarantie)
+Auf Antrag (Finance-Genehmigung): 60 Tage netto (nur für Bestandskunden
+mit Bonitätsprüfung und Umsatz > CHF 50'000/Jahr)
+90 Tage: nur mit GL-Genehmigung und Kreditversicherung (Euler Hermes)
+
+6.2 Mahnprozess
+- 1. Mahnung: 10 Tage nach Fälligkeit (automatisch via SAP)
+- 2. Mahnung: 25 Tage nach Fälligkeit (+CHF 20 Mahngebühr)
+- 3. Mahnung: 40 Tage nach Fälligkeit (eingeschrieben, Inkassoankündigung)
+- Inkasso/Betreibung: ab 50 Tagen Verzug (Entscheid Finance-Leitung)
+
+6.3 Kreditorenzahlung
+Lieferantenrechnungen werden wöchentlich (jeden Dienstag) bezahlt.
+Rechnungen müssen bis Freitag 12:00 Uhr im Buchhaltungs-Postfach eingegangen
+sein um im nächsten Zahlungslauf berücksichtigt zu werden.
+Dringlichkeitszahlungen (Skonto-Nutzung): Anfrage an
+buchhaltung@haeuslertechnologie.ch, Genehmigung durch Finance-Leitung.
+
+================================================================================
+7. SPESENPOLITIK (DETAIL)
+================================================================================
+
+Ergänzung zu HR-Reglement (Kapitel 5.3):
+
+Repräsentation / Kundenessen:
+- Bis CHF 150 pro Person: Abteilungsleiter genehmigt
+- CHF 150–300 pro Person: Finance-Genehmigung
+- > CHF 300 pro Person: GL-Genehmigung
+- Alkohol wird nur bis max. CHF 30 pro Person erstattet
+
+Geschäftsreisen International:
+- Flug Business Class: nur bei Reisedauer > 6 Stunden und GL-Genehmigung
+- Flug Economy Class: Standard für alle anderen Reisen
+- Parkgebühren Flughafen: max. CHF 25/Tag (sonst Taxi/ÖV bevorzugen)
+
+Kreditkarte:
+- Firmenkreditkarten (Visa Corporate) stehen Mitarbeitenden ab
+  Kaderposition oder mit regelmässigem Reisebedarf zur Verfügung
+- Anforderung über Finance-Abteilung (Limit: CHF 5'000/Monat Standard)
+
+================================================================================
+8. KONTAKT FINANCE & CONTROLLING
+================================================================================
+
+CFO / Finance-Leitung: Daniel Wüthrich
+E-Mail: d.wuethrich@haeuslertechnologie.ch | Durchwahl: 300
+
+Buchhaltung / Kreditoren: Karin Brunner
+E-Mail: k.brunner@haeuslertechnologie.ch | Durchwahl: 302
+
+Controlling: Marco Otti
+E-Mail: m.otti@haeuslertechnologie.ch | Durchwahl: 305
+
+Allgemein: buchhaltung@haeuslertechnologie.ch
