@@ -10,7 +10,7 @@ Seminararbeit "Artifacts in IT" | MSc Wirtschaftsinformatik | Gruppe ARTI
 import os
 import streamlit as st
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import Chroma
 from langchain.chains import ConversationalRetrievalChain
